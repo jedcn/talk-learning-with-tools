@@ -1,0 +1,124 @@
+* Quotes
+
+** IRA GLASS on CREATIVITY AND HANGING TOUGH
+
+[[http://writerunderground.com/2011/04/28/ira-glass-on-creativity-or-the-gap-between-our-taste-and-our-work/][Link to Blog Post about Video]]
+
+Main Quote:
+
+What nobody tells people who are beginners — and I really wish someone had told
+this to me . . . is that all of us who do creative work, we get into it because
+we have good taste. But there is this gap. For the first couple years you make
+stuff, and it’s just not that good. It’s trying to be good, it has potential,
+but it’s not.
+
+But your taste, the thing that got you into the game, is still killer. And your
+taste is why your work disappoints you. A lot of people never get past this
+phase. They quit. Most people I know who do interesting, creative work went
+through years of this. We know our work doesn’t have this special thing that we
+want it to have. We all go through this. And if you are just starting out or you
+are still in this phase, you gotta know it’s normal and the most important thing
+you can do is do a lot of work. Put yourself on a deadline so that every week
+you will finish one story.
+
+It is only by going through a volume of work that you will close that gap, and
+your work will be as good as your ambitions. And I took longer to figure out how
+to do this than anyone I’ve ever met. It’s gonna take awhile. It’s normal to
+take awhile. You’ve just gotta fight your way through.
+
+
+** Why on CREATION
+
+[[http://www.goodreads.com/quotes/201306-when-you-don-t-create-things-you-become-defined-by-your][Why on Creation and Inclusion]]
+
+when you don't create things, you become defined by your tastes rather than
+ability. your tastes only narrow & exclude people. so create.
+
+_Why The Lucky Stiff
+
+
+* Thoughts
+
+** Wood Magazine Quote
+
+http://www.woodmagazine.com/woodworking-tips/basics/a-woodworkers-basic-tool-kit/
+
+In general, it makes sense to buy the best equipment you can afford,
+particularly when you’re purchasing hand tools. It's unlikely that a
+good saw or plane will become obsolete, and with basic maintenance,
+there’s no reason why these tools can’t last a lifetime. The thought
+that a great-grandchild might one day enjoy using your combination
+square could make spending extra dollars seem like a wise investment.
+
+When it comes to power tools, however, it gets easier to fall into the
+"overkill" trap. If a 1-hp router will be entirely adequate for your
+needs, don't buy a 3-hp model.
+
+Good tools don't go out of style. A 100-year-old chisel looks much the
+same as a new one, and some woodworkers insist that the older tool has
+higher quality, In fact, some old tools can be more expensive than new
+ones.
+
+** USES THIS
+
+*** Likely to Use
+
+  + Micah Elizabeth Scott: http://scanlime.usesthis.com/. Bags. Monitors.
+    Roaming around San Francisco.
+
+  + Kate Ray: http://kate.ray.usesthis.com/. Headphones without music. 15'
+    MacBook Pro. Paper Notebook near computer at all times containing the day's
+    todo list.
+
+  + Joey Hess: http://joey.hess.usesthis.com/. Dell Mini 9 (a netbook) with 2GB
+    of memory! No cell phones. No tablets. And I quote:
+
+      This place is nicely remote, and off the grid, relying on solar power. I
+      only get 50 amp-hours of juice on a sunny day, and often less than 15
+      amp-hours on a bad day. So the whole house runs on 12 volt DC power to
+      avoid the overhead of an inverter; my laptop is powered through a
+      succession of cheap vehicle power adapters, and my home server runs on 5
+      volt power provided by a USB adapter.
+
+      When power is low, I often hack in the evenings by lantern light.
+
+   + Dana Contreras: http://dana.contreras.usesthis.com/.
+
+   + Phil Hagelberg: http://phil.hagelberg.usesthis.com/. Emacs. Works from
+     coffeeshops. pair.io for remote pairing.
+
+   + Hugo Liu: http://hugo.liu.usesthis.com/
+
+   + Bret Taylor: http://bret.taylor.usesthis.com/
+
+*** Double Check These
+
+   + http://dhanji.prasanna.usesthis.com/
+   + http://jessica.hammer.usesthis.com/
+   + http://adewale.oshineye.usesthis.com/
+   + http://julian.bleecker.usesthis.com/
+   + http://eric.s.raymond.usesthis.com/
+   + http://laura.ballance.usesthis.com/
+   + http://jordan.mcrae.usesthis.com/
+
+
+** Local Maxima
+
+Here's an image I was going to use:
+
++ Local Maximum, Minimum Image:
+  http://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Extrema_example_original.svg/500px-Extrema_example_original.svg.png
+
+And here's the wikipedia article it came from:
+
+ + http://en.wikipedia.org/wiki/Maxima_and_minima
+
+But when I googled, I saw that someone influential had already written
+about this:
+
+http://sethgodin.typepad.com/seths_blog/2005/11/understanding_l.html
+
+* Images
+
++ Minuteman Library Card:
+  http://www.actonmemoriallibrary.org/images/LibCard.jpg
