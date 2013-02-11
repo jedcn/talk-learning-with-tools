@@ -143,7 +143,8 @@ important ideas I bring with me throughout the day.
 
 ### Local Maxima
 
-Take a look at this image from the wikipedia:
+Take a look at this image from the wikipedia article on
+[Maxima and Minima][wikipedia-maxima-minima]:
 
 ![Wikipedia's Maxima Image][wikipedia-extrema-png]
 
@@ -163,7 +164,7 @@ is exactly what I'm talking about.
 What are the chances that two people in this room share the same
 birthday?
 
-From the [wikipedia](http://en.wikipedia.org/wiki/Birthday_problem):
+From the wikipedia on the [Birthday Problem][wikipedia-birthday-problem]:
 
 > In probability theory, the birthday problem or birthday paradox
 > concerns the probability that, in a set of n randomly chosen people,
@@ -172,6 +173,29 @@ From the [wikipedia](http://en.wikipedia.org/wiki/Birthday_problem):
 > reaches 367 (since there are 366 possible birthdays, including
 > February 29). However, 99% probability is reached with just 57
 > people, and 50% probability with 23 people.
+
+We've got more than 57 people in this room, so almost certainly we've
+got two people with the same birthday. That's likely a paradox because
+when you think birthday and likelihood of matching somehow 1 in 365
+appears in your head.
+
+Okay, stepping back for a bit, what's the chance that someone is
+having a really bad day?
+
+Maybe they're in pain.
+Maybe they're sick.
+Maybe they are caring for a sick child.
+Maybe they are caring for a sick parent.
+Maybe it's a serious sickness.
+Maybe they are young, and lonely.
+Maybe they are old, and lonely.
+The list goes on.
+
+What are the chances for anyone one of those things to be happening to
+someone? Much more likely than 1 in 365.
+
+So, when I go out and about, I hope everyone's doing great, but I try
+to treat everyone as if they might be having a really bad day.
 
 ### Of Students and Teachers
 
@@ -202,5 +226,7 @@ It is the student's job to learn (Pragmatic Thinking and Learning)
 [getting-started-with-slate]: https://github.com/jedcn/getting-started-with-slate
 [wikipedia-extrema-png]: http://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Extrema_example_original.svg/500px-Extrema_example_original.svg.png
 [seth-godin-local-max]: http://sethgodin.typepad.com/seths_blog/2005/11/understanding_l.html
+[wikipedia-maxima-minima]: http://en.wikipedia.org/wiki/Maxima_and_minima
+[wikipedia-birthday-problem]: http://en.wikipedia.org/wiki/Birthday_problem
 
 .
