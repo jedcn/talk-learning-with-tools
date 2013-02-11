@@ -143,7 +143,20 @@ important ideas I bring with me throughout the day.
 
 ### Local Maxima
 
-I often ask myself, am I stuck in a local maxima?
+Take a look at this image from the wikipedia:
+
+![Wikipedia's Maxima Image][wikipedia-extrema-png]
+
+If you're looking for the maximum value of a function in a region,
+it's possible you may find a local maxima, but not the global maxima.
+Functions exist to find maxima, but they can sometimes get "stuck in a
+local maxima."
+
+How do you know that you're not stuck in a local maxima?
+
+When I started googling around for this, I saw that someone famous has
+already spoken about it. [Seth Godin's write-up][seth-godin-local-max]
+is exactly what I'm talking about.
 
 ### Birthday Paradox
 
@@ -183,6 +196,11 @@ It is the student's job to learn (Pragmatic Thinking and Learning)
 * editor: running specs under point (example from learning with rspec)
 
 
-[reveal-js-home]: http://lab.hakim.se/reveal-js/ [rvl-io-home]:
-http://www.rvl.io/ [slate-home]: https://github.com/jigish/slate
+[reveal-js-home]: http://lab.hakim.se/reveal-js/
+[rvl-io-home]: http://www.rvl.io/
+[slate-home]: https://github.com/jigish/slate
 [getting-started-with-slate]: https://github.com/jedcn/getting-started-with-slate
+[wikipedia-extrema-png]: http://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Extrema_example_original.svg/500px-Extrema_example_original.svg.png
+[seth-godin-local-max]: http://sethgodin.typepad.com/seths_blog/2005/11/understanding_l.html
+
+.
