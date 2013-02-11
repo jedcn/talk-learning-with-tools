@@ -23,13 +23,13 @@ something you don't? Let's share.
 
 That said, the remainder of this talk includes specific examples of
 "tools" that work for me. These are the things I'd start sharing if we
-sat down together.
+sat down together and talked.
 
 You might find this interesting if work on the same sorts of things
-that I do. Yet, knowing that I've got a mixed audience here, I've
-tried to start with widely applicable ideas and then slowly narrow
-things down toward stuff that's probably only interesting to
-programmers.
+that I do. Yet, knowing that I've got a mixed audience here and you
+probably won't find this interesting, I've tried to start with widely
+applicable ideas and then slowly narrow things down toward stuff
+that's probably only interesting to programmers.
 
 So.. here we go.
 
@@ -39,7 +39,10 @@ remember only one thing, here's the punchline:
 > Your happiness stems from what you create. Share your tools,
 > thoughts, and approach to your art.
 
-## Meta-Tools
+## Meta-tools
+
+Let's talk about the tools that I'm using to give this talk about
+learning with tools.
 
 ### reveal.js / rvl.io
 
@@ -96,22 +99,60 @@ pixel counts.
 
 ## Tools for Thought
 
-We miss out on too much if we don't pay attention to how the brain
-works. Here are some things to think about:
+In knowledge work, and life, your brain is too important to be
+overlooked.
 
-* *Thinking Fast, Thinking Slow* and implications
-* Pomodoro Technique
+### General Theory of Brain Relativity
+
+* Thinking Fast, Thinking Slow
 * Pragmatic Thinking and Learning
+
+### Pomodoro Technique
+
+There's a bunch involved with the Pomodoro technique, but my real take
+away is that how you choose to work can impact you after you leave
+work. I liken it to physical exercise: if you had to run 26 miles in
+the span of a week, every week, for a year, there are different ways
+you could approach it that would lead to very different outcomes.
+
+You could run a marathon every Monday, and then take the next 6 days
+off, and repeat for 51 more weeks.
+
+Or, you could run a mile, rest for an hour, and then repeat four times
+a day.
+
+Which would you rather do?
+
+The same holds for you brain: if you cram it full of stuff and make it
+handle distractions (like email, or meetings, or people dropping by)
+and then cram it full again and keep it crammed for hours on end, my
+observation is that you'll work less efficiently, accomplish less
+overall, and be more tired at the end of the day. On days when there's
+a bunch going on, it'll take longer to unwind and you might even have
+harder trouble getting to, and staying, asleep.
+
+You can read more about the pomodoro technique
+[online](http://www.pomodorotechnique.com/) or in this
+[book](http://pragprog.com/book/snfocus/pomodoro-technique-illustrated)
 
 ## Approaching Tools
 
-* It is the student's job to learn (Pragmatic Thinking and Learning)
-* Local Maxima
-* Birthday Paradox
+It's often the case that the approach you take toward people, a
+situation, or learning in general can be crucial. Here are three
+important ideas I bring with me throughout the day.
 
-From the wikipedia:
+### Local Maxima
 
-> In probability theory, the birthday problem or birthday paradox[1]
+I often ask myself, am I stuck in a local maxima?
+
+### Birthday Paradox
+
+What are the chances that two people in this room share the same
+birthday?
+
+From the [wikipedia](http://en.wikipedia.org/wiki/Birthday_problem):
+
+> In probability theory, the birthday problem or birthday paradox
 > concerns the probability that, in a set of n randomly chosen people,
 > some pair of them will have the same birthday. By the pigeonhole
 > principle, the probability reaches 100% when the number of people
@@ -119,7 +160,12 @@ From the wikipedia:
 > February 29). However, 99% probability is reached with just 57
 > people, and 50% probability with 23 people.
 
- * Learning from all Resources
+### Of Students and Teachers
+
+It is the student's job to learn (Pragmatic Thinking and Learning)
+
+### Anything Goes Learning
+
  * Peepcode
  * Minuteman Library
  * Confreaks.com
