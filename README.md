@@ -113,30 +113,37 @@ basketball team. There are two teams: one in white jerseys and one in
 black jerseys. About half way through the passing a bear walks in
 between the players, does a dance, and leaves.
 
-However, because people are focused on counting the passes, almost 1/2
-of them don't see the bear at all. Of these people, many do not
-believe the bear was present when told about it. What lessons can be
-learned here? When you brain is busy you can become blind to the
-obvious. And, you can be blind to your blindness.
+However, almost 1/2 of the people who watch this video don't see the
+bear at all. When quizzed about it afterward, the people who miss the
+bear are *sure* that it wasn't there.
 
-Why am I talking about this now? If your brain is prone to blindness,
-or making mistakes, or being tricked, you're better of knowing when
-this is likely to happen so you can be aware of it.
+What lessons can be learned here? When you brain is busy you can
+become blind to the obvious. And, you can be blind to your blindness.
+
+If your brain is prone to blindness, or making mistakes, or being
+tricked, you're better of knowing when this is likely to happen so you
+can be aware of it.
 
 You can learn more about this experiment in the book
 [The Invisible Gorilla][amazon-invisible-gorilla] by Christopher
 Chabris and Daniel Simons. You can also read about it briefly in
 [Thinking Fast, Thinking Slow][amazon-thinking-fast-slow] on page 24.
 
-Let's keep talking about the brain.
-
-Consider the following question:
+For people who didn't see the bear, let's consider another question:
 
 > A ball and a bat cost $1.10.
 >
 > The bat costs $1.00 more than the ball.
 >
 > How much does the ball cost?
+
+This question is designed so that an answer quickly pops into your
+mind. That answer is 10 cents, and it is incorrect.
+
+If you ask this of college students, 80% of them will get it wrong.
+
+Yet, if you make the font harder to read-- perhaps make it blurry or
+written in a strange font, then 675
 
 ### Pomodoro Technique
 
@@ -213,14 +220,15 @@ appears in your head.
 Okay, stepping back for a bit, what's the chance that someone is
 having a really bad day?
 
-Maybe they're in pain.
-Maybe they're sick.
-Maybe they are caring for a sick child.
-Maybe they are caring for a sick parent.
-Maybe it's a serious sickness.
-Maybe they are young, and lonely.
-Maybe they are old, and lonely.
-The list goes on.
+* Maybe they're in pain.
+* Maybe they're sick.
+* Maybe they are caring for a sick child.
+* Maybe they are caring for a sick parent.
+* Maybe it's a serious sickness.
+* Maybe they are young, and lonely.
+* Maybe they are old, and lonely.
+
+The list goes on..
 
 What are the chances for anyone one of those things to be happening to
 someone? Much more likely than 1 in 365.
@@ -266,6 +274,7 @@ speak of the student/teacher relationship:
 [seth-godin-local-max]: http://sethgodin.typepad.com/seths_blog/2005/11/understanding_l.html
 [wikipedia-maxima-minima]: http://en.wikipedia.org/wiki/Maxima_and_minima
 [wikipedia-birthday-problem]: http://en.wikipedia.org/wiki/Birthday_problem
+[youtube-awareness-test]: http://www.youtube.com/watch?v=Ahg6qcgoay4
 [amazon-thinking-fast-slow]: http://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374275637/
 [amazon-invisible-gorilla]: http://www.amazon.com/Invisible-Gorilla-How-Intuitions-Deceive/dp/0307459667
 .
