@@ -23,13 +23,14 @@ something you don't? Let's share.
 
 That said, the remainder of this talk includes specific examples of
 "tools" that work for me. These are the things I'd start sharing if we
-sat down together and talked.
+sat down and started talking.
 
 You might find this interesting if work on the same sorts of things
 that I do. Yet, knowing that I've got a mixed audience here and you
-probably won't find this interesting, I've tried to start with widely
-applicable ideas and then slowly narrow things down toward stuff
-that's probably only interesting to programmers.
+probably won't find the specific things that I like interesting, I've
+tried to start with widely applicable ideas and then slowly narrow
+things down toward stuff that's probably only interesting to
+programmers.
 
 So.. here we go.
 
@@ -44,7 +45,7 @@ remember only one thing, here's the punchline:
 Let's talk about the tools that I'm using to give this talk about
 learning with tools.
 
-### reveal.js / rvl.io
+### Slides: reveal.js / rvl.io
 
 Let's start with what you're looking at on the screen. This
 presentation is delivered via a framework called
@@ -59,7 +60,7 @@ Why do I use this? I like reveal.js because I can create slides in my
 favorite editor, I can post them online, and I've got decent browser
 support (iPad).
 
-### Slate
+### Window Management: Slate
 
 Until a few months ago, I had never used a window manager on MacOS,
 but I had always been envious of people that had them. I started using
@@ -104,8 +105,38 @@ overlooked.
 
 ### General Theory of Brain Relativity
 
-* Thinking Fast, Thinking Slow
-* Pragmatic Thinking and Learning
+Recently we saw a video named
+[The Awareness Test][youtube-awareness-test].
+
+In the video, you are asked to count passes made by members of a
+basketball team. There are two teams: one in white jerseys and one in
+black jerseys. About half way through the passing a bear walks in
+between the players, does a dance, and leaves.
+
+However, because people are focused on counting the passes, almost 1/2
+of them don't see the bear at all. Of these people, many do not
+believe the bear was present when told about it. What lessons can be
+learned here? When you brain is busy you can become blind to the
+obvious. And, you can be blind to your blindness.
+
+Why am I talking about this now? If your brain is prone to blindness,
+or making mistakes, or being tricked, you're better of knowing when
+this is likely to happen so you can be aware of it.
+
+You can learn more about this experiment in the book
+[The Invisible Gorilla][amazon-invisible-gorilla] by Christopher
+Chabris and Daniel Simons. You can also read about it briefly in
+[Thinking Fast, Thinking Slow][amazon-thinking-fast-slow] on page 24.
+
+Let's keep talking about the brain.
+
+Consider the following question:
+
+> A ball and a bat cost $1.10.
+>
+> The bat costs $1.00 more than the ball.
+>
+> How much does the ball cost?
 
 ### Pomodoro Technique
 
@@ -199,7 +230,14 @@ to treat everyone as if they might be having a really bad day.
 
 ### Of Students and Teachers
 
-It is the student's job to learn (Pragmatic Thinking and Learning)
+The book 'Pragmatic Learning and Thinking' has a lot to say about how
+the brain works. Earlier on, on page 15, in the introduction, they
+speak of the student/teacher relationship:
+
+> You don't get taught; you have to learn. We tend to look at the
+> teacher/learner relationship the wrong way around: it's not that the
+> teacher teaches; it's that the student learns. The learning is
+> always up to you. It is the student's job to learn.
 
 ### Anything Goes Learning
 
@@ -228,5 +266,6 @@ It is the student's job to learn (Pragmatic Thinking and Learning)
 [seth-godin-local-max]: http://sethgodin.typepad.com/seths_blog/2005/11/understanding_l.html
 [wikipedia-maxima-minima]: http://en.wikipedia.org/wiki/Maxima_and_minima
 [wikipedia-birthday-problem]: http://en.wikipedia.org/wiki/Birthday_problem
-
+[amazon-thinking-fast-slow]: http://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374275637/
+[amazon-invisible-gorilla]: http://www.amazon.com/Invisible-Gorilla-How-Intuitions-Deceive/dp/0307459667
 .
