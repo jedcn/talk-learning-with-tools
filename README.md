@@ -121,8 +121,8 @@ What lessons can be learned here? When you brain is busy you can
 become blind to the obvious. And, you can be blind to your blindness.
 
 If your brain is prone to blindness, or making mistakes, or being
-tricked, you're better of knowing when this is likely to happen so you
-can be aware of it.
+tricked, you're better off knowing when this is likely to happen so
+you can be aware of it.
 
 You can learn more about this experiment in the book
 [The Invisible Gorilla][amazon-invisible-gorilla] by Christopher
@@ -140,10 +140,18 @@ For people who didn't see the bear, let's consider another question:
 This question is designed so that an answer quickly pops into your
 mind. That answer is 10 cents, and it is incorrect.
 
-If you ask this of college students, 80% of them will get it wrong.
+If you write this question down on a piece of paper and ask it of
+college students, 80% of them will get it wrong.
 
-Yet, if you make the font harder to read-- perhaps make it blurry or
-written in a strange font, then 675
+What do you think happens if you make the paper hard to read, with a
+washed out font?
+
+The failure rate drops dramatically, in the neighborhood of 80% ->
+30%.
+
+Here's another lesson to be learned: there may be a part of your brain
+that's looking for the quick, easy answer. This part seems to be
+"dismissed" if you increase your cognitive load.
 
 ### Pomodoro Technique
 
@@ -249,9 +257,15 @@ speak of the student/teacher relationship:
 
 ### Anything Goes Learning
 
- * Peepcode
- * Minuteman Library
- * Confreaks.com
+When you're serious about learning, you get wily about resources:
+you'll search them out. People? Sure. Videos? It's the internet!
+Books? Why not?
+
+Here are some that I've found helpful:
+
+#### Peepcode
+#### Minuteman Library
+#### Confreaks.com
 
 ## Specifics
 
