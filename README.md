@@ -21,21 +21,22 @@ The core idea behind this talk, **Learning ..with tools** is:
 Maybe you know something someone else doesn't? Maybe they know
 something you don't? Let's share.
 
+With that said, this talk is mostly done!
+
 That said, the remainder of this talk includes specific examples of
 "tools" that work for me. These are the things I'd start sharing if we
 sat down and started talking.
 
 You might find this interesting if work on the same sorts of things
-that I do. Yet, knowing that I've got a mixed audience here and you
-probably won't find the specific things that I like interesting, I've
-tried to start with widely applicable ideas and then slowly narrow
-things down toward stuff that's probably only interesting to
-programmers.
+that I do. But, you might not work on the same things that I do, and
+so more likely than not you'll find this boring. Knowing this, I've
+set the talk up to start with more widely applicable ideas and then
+home in on stuff that's interesting to programmers later on.
 
 So.. here we go.
 
-This is going to be intentionally wide-ranging and quick, but if you
-remember only one thing, here's the punchline:
+This is going to be intentionally wide-ranging and quick. If you
+remember only one thing:
 
 > Your happiness stems from what you create. Share your tools,
 > thoughts, and approach to your art.
@@ -47,10 +48,10 @@ learning with tools.
 
 ### Slides: reveal.js / rvl.io
 
-Let's start with what you're looking at on the screen. This
-presentation is delivered via a framework called
-"[reveal.js][reveal-js-home]" It's an HTML page, so it can be served
-up anywhere you can get a connection. It runs on an iPad or iPhone.
+What's up on the screen right now? This presentation is delivered via
+a framework called "[reveal.js][reveal-js-home]" It's an HTML page, so
+it can be served up anywhere you can get a connection. It runs on an
+iPad or iPhone.
 
 There's an online demo that contains a survey of the functionality it
 offers. You can create these things by modifying HTML or using a
@@ -64,7 +65,10 @@ support (iPad).
 
 Until a few months ago, I had never used a window manager on MacOS,
 but I had always been envious of people that had them. I started using
-Slate, and you may notice me doing the following with a window:
+Slate, and I won't go back.
+
+During this presentation, you may notice me doing the following things
+to the active window with Slate:
 
 1. Making it be 1/4 of the screen size and placing it in a corner.
 1. Making it be 1/2 of the screen size, and placing it on one of the
@@ -72,15 +76,13 @@ Slate, and you may notice me doing the following with a window:
 1. Making it be the entire size of the screen (full screen)
 1. Making the currently activated screen go to my second monitor.
 
-It also lets me jump between windows.
-
 If you want to get started with slate, you can check out
 [the homepage][slate-home]. If you want to get up and running quickly
 with my setup, you can check out
 [some notes][getting-started-with-slate] that I wrote up.
 
-Why do I use this? I don't like taking my fingers off the keyboard. I
-can reduce
+Why do I use this? I don't like taking my fingers off the keyboard.
+It's easier and faster to make things go where I want.
 
 ### MacOS Zoom
 
@@ -94,9 +96,13 @@ Why do I use this? If you're ever presenting to a room full of people,
 you will sooner or later find yourself in a situation where you'd wish
 that you could make the font larger. Most well-behaved applications
 let you do this, but many of them "re-layout" the screen once you've
-increased it and this can be less than optimal. Also, if you don't
-have your eyeglasses. Also if you're doing design work and every last
-pixel counts.
+increased it and this can be less than optimal. Also, I wear
+eyeglasses but sometimes forget them. Finally, there was once a time
+when I did design work and every last pixel counted.
+
+Okay, that's the general introduction to what you see on the screen.
+If you've got any questions afterward or want to get started with any
+of these things, give me a yell and we'll figure it out.
 
 ## Tools for Thought
 
@@ -104,6 +110,8 @@ In knowledge work, and life, your brain is too important to be
 overlooked.
 
 ### General Theory of Brain Relativity
+
+#### The Invisible Gorilla
 
 Recently we saw a video named
 [The Awareness Test][youtube-awareness-test].
@@ -117,6 +125,9 @@ However, almost 1/2 of the people who watch this video don't see the
 bear at all. When quizzed about it afterward, the people who miss the
 bear are *sure* that it wasn't there.
 
+It turns out if you watch that video without the instruction to count
+the number of passes, you see the gorilla 100% of the time.
+
 What lessons can be learned here? When you brain is busy you can
 become blind to the obvious. And, you can be blind to your blindness.
 
@@ -128,6 +139,8 @@ You can learn more about this experiment in the book
 [The Invisible Gorilla][amazon-invisible-gorilla] by Christopher
 Chabris and Daniel Simons. You can also read about it briefly in
 [Thinking Fast, Thinking Slow][amazon-thinking-fast-slow] on page 24.
+
+#### The Bat and Ball
 
 For people who didn't see the bear, let's consider another question:
 
@@ -150,8 +163,61 @@ The failure rate drops dramatically, in the neighborhood of 80% ->
 30%.
 
 Here's another lesson to be learned: there may be a part of your brain
-that's looking for the quick, easy answer. This part seems to be
-"dismissed" if you increase your cognitive load.
+that's looking for the quick, easy answer. Yet there are conditions in
+which you don't look for the easy answer. It's worth looking into this
+to figure out what's going on.
+
+#### Soup vs. Soap
+
+You are constantly monitoring your environment. Sometimes this is
+explicit, sometimes it's implicit. What you pick up from your
+environment can impact what you think.
+
+If someone shows you the word 'Hungry?' and asks you to fill in a
+blank like so: SO_P you're more likely to come up with SOUP instead of
+SOAP. Alternatively, if someone shows you the word 'Dirty?' and asks
+you to fill in the same blank, this time you're more likely to come up
+with SOAP.
+
+That's an example of explicit priming. And it isn't too surprising.
+
+But, it turns out that you pick up on unsaid clues as well. There are
+experiments that show you can reliably reproduce the following:
+
+* Get a bunch of people 18-22 years old
+* Ask them to work on puzzles.
+* As they resolve the puzzles, several of the puzzles have solutions
+  with words such as:
+ * Florida
+ * Bald
+ * Wrinkle
+* All of these words are hinting at the general idea of a person that
+  is older.
+* Then, ask the test subjects to move from one room to another. From
+  their point of view the test is over.
+* But, this is what you're really testing!
+* They move significantly SLOWER between the two rooms.
+* After things are really over, the test subjects, when questioned,
+  deny having any idea of 'being older' in their heads-- they can't
+  single out any of the answers to the tests as more important than
+  the others.
+
+What!
+
+And further, just by hearing this, you've gone through the same "slow
+down." In your case it was explicit, but the idea is that you can be
+picking up on things that are altering your behavior without knowing
+that you're picking up on anything or changing your behavior!
+
+Daniel Kahneman in his book says:
+
+> Much of what we know now would have sounded like science fiction
+> thirty or forty years ago.
+
+This is going to close the section on brain stuff, but the take away
+is as follows: if this is true, which I believe it is, learning more
+about what's happening can only benefit you. Who knows what you're
+taking in? Who knows what bad judgments you're making?
 
 ### Pomodoro Technique
 
