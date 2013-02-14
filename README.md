@@ -330,8 +330,20 @@ Books? Why not?
 Here are some that I've found helpful:
 
 #### Peepcode
-#### Minuteman Library
+
+* https://peepcode.com/products/rspec-i
+* https://peepcode.com/products/advanced-git
+* https://peepcode.com/products/play-by-play-tenderlove-ruby-on-rails
+
 #### Confreaks.com
+
+* http://confreaks.com/videos/1233-aloharuby2012-refactoring-from-good-to-great
+* http://confreaks.com/videos/240-goruco2009-solid-object-oriented-design
+* http://vimeo.com/26330100
+
+#### Minuteman Library
+
+* https://library.minlib.net/patroninfo/
 
 ## Specifics
 
