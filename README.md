@@ -23,9 +23,9 @@ something you don't? Let's share.
 
 With that said, this talk is mostly done!
 
-That said, the remainder of this talk includes specific examples of
-"tools" that work for me. These are the things I'd start sharing if we
-sat down and started talking.
+The remainder of this talk includes specific examples of "tools" that
+work for me. These are the things I'd start sharing if we sat down and
+started talking.
 
 You might find this interesting if work on the same sorts of things
 that I do. But, you might not work on the same things that I do, and
@@ -33,10 +33,10 @@ so more likely than not you'll find this boring. Knowing this, I've
 set the talk up to start with more widely applicable ideas and then
 home in on stuff that's interesting to programmers later on.
 
-So.. here we go.
+So.. here we go. This is going to be intentionally wide-ranging and
+quick.
 
-This is going to be intentionally wide-ranging and quick. If you
-remember only one thing:
+If you remember only one thing:
 
 > Your happiness stems from what you create. Share your tools,
 > thoughts, and approach to your art.
