@@ -345,19 +345,6 @@ Here are some that I've found helpful:
 
 * https://library.minlib.net/patroninfo/
 
-## Specifics
-
-* git: Get your SHA1 on your command line
-* side project: nodejam: helping friend, learning about cloud. What's
-  your workbench?
-* side project: reveal-ck: travis-ci, jenkins, janky
-* zsh: Lots of stuff. How about cd -?
-* ssh-copy-id: Never log in again
-* editor: git integration
-* editor: snippets
-* editor: running specs under point (example from learning with rspec)
-
-
 [reveal-js-home]: http://lab.hakim.se/reveal-js/
 [rvl-io-home]: http://www.rvl.io/
 [slate-home]: https://github.com/jigish/slate
