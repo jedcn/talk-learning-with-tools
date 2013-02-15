@@ -1,3 +1,21 @@
+* Remaining Work
+
+** Work out which tabs are open
+
+Have an iPad hanging around for reveal.js swipe
+
+  + http://jedcn.github.com/
+  + http://lab.hakim.se/reveal-js/
+  + http://en.wikipedia.org/wiki/Numeric_keypad
+  + http://www.youtube.com/watch?v=Ahg6qcgoay4
+  + http://sethgodin.typepad.com/seths_blog/2005/11/understanding_l.html
+  + http://scanlime.usesthis.com/
+  + http://kate.ray.usesthis.com/
+  + http://dana.contreras.usesthis.com/
+  + https://travis-ci.org/jedcn/reveal-ck
+
+** Clean up the end of README.md
+
 * Quotes
 
 ** IRA GLASS on CREATIVITY AND HANGING TOUGH
@@ -63,29 +81,17 @@ ones.
 
 *** Likely to Use
 
-  + Micah Elizabeth Scott: http://scanlime.usesthis.com/. Bags. Monitors.
-    Roaming around San Francisco.
+  + Micah Elizabeth Scott: http://scanlime.usesthis.com/. 13' Mac Book
+    Air. Processor isn't great, but SSD rocks. Tom Bihn Bag. Chrome
+    bag. Roaming around San Francisco.
 
-  + Kate Ray: http://kate.ray.usesthis.com/. Headphones without music. 15'
-    MacBook Pro. Paper Notebook near computer at all times containing the day's
-    todo list.
+  + Kate Ray: http://kate.ray.usesthis.com/. Headphones without music.
+    15' MacBook Pro. Paper Notebook near computer at all times
+    containing the day's todo list. Sublime Text 2 with a time
+    tracking application.
 
-  + Joey Hess: http://joey.hess.usesthis.com/. Dell Mini 9 (a netbook) with 2GB
-    of memory! No cell phones. No tablets. And I quote:
-
-      This place is nicely remote, and off the grid, relying on solar power. I
-      only get 50 amp-hours of juice on a sunny day, and often less than 15
-      amp-hours on a bad day. So the whole house runs on 12 volt DC power to
-      avoid the overhead of an inverter; my laptop is powered through a
-      succession of cheap vehicle power adapters, and my home server runs on 5
-      volt power provided by a USB adapter.
-
-      When power is low, I often hack in the evenings by lantern light.
-
-   + Dana Contreras: http://dana.contreras.usesthis.com/.
-
-   + Phil Hagelberg: http://phil.hagelberg.usesthis.com/. Emacs. Works from
-     coffeeshops. pair.io for remote pairing.
+  + Dana Contreras: http://dana.contreras.usesthis.com/. 1Password.
+    Cessna 162.
 
    + Hugo Liu: http://hugo.liu.usesthis.com/
 
